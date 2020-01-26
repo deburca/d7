@@ -1783,17 +1783,17 @@
     },
     {
         "name": "symfony/console",
-        "version": "v3.4.36",
-        "version_normalized": "3.4.36.0",
+        "version": "v3.4.37",
+        "version_normalized": "3.4.37.0",
         "source": {
             "type": "git",
             "url": "https://github.com/symfony/console.git",
-            "reference": "1ee23b3b659b06c622f2bd2492a229e416eb4586"
+            "reference": "7c5bdd346f9d90a2d22d4e1fe61e02dc19b98f12"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/symfony/console/zipball/1ee23b3b659b06c622f2bd2492a229e416eb4586",
-            "reference": "1ee23b3b659b06c622f2bd2492a229e416eb4586",
+            "url": "https://api.github.com/repos/symfony/console/zipball/7c5bdd346f9d90a2d22d4e1fe61e02dc19b98f12",
+            "reference": "7c5bdd346f9d90a2d22d4e1fe61e02dc19b98f12",
             "shasum": ""
         },
         "require": {
@@ -1822,7 +1822,7 @@
             "symfony/lock": "",
             "symfony/process": ""
         },
-        "time": "2019-12-01T10:04:45+00:00",
+        "time": "2020-01-10T07:52:48+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -1857,17 +1857,17 @@
     },
     {
         "name": "symfony/debug",
-        "version": "v4.4.2",
-        "version_normalized": "4.4.2.0",
+        "version": "v4.4.3",
+        "version_normalized": "4.4.3.0",
         "source": {
             "type": "git",
             "url": "https://github.com/symfony/debug.git",
-            "reference": "5c4c1db977dc70bb3250e1308d3e8c6341aa38f5"
+            "reference": "89c3fd5c299b940333bc6fe9f1b8db1b0912c759"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/symfony/debug/zipball/5c4c1db977dc70bb3250e1308d3e8c6341aa38f5",
-            "reference": "5c4c1db977dc70bb3250e1308d3e8c6341aa38f5",
+            "url": "https://api.github.com/repos/symfony/debug/zipball/89c3fd5c299b940333bc6fe9f1b8db1b0912c759",
+            "reference": "89c3fd5c299b940333bc6fe9f1b8db1b0912c759",
             "shasum": ""
         },
         "require": {
@@ -1880,7 +1880,7 @@
         "require-dev": {
             "symfony/http-kernel": "^3.4|^4.0|^5.0"
         },
-        "time": "2019-12-16T14:46:54+00:00",
+        "time": "2020-01-08T17:29:02+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -1915,17 +1915,17 @@
     },
     {
         "name": "symfony/event-dispatcher",
-        "version": "v3.4.36",
-        "version_normalized": "3.4.36.0",
+        "version": "v3.4.37",
+        "version_normalized": "3.4.37.0",
         "source": {
             "type": "git",
             "url": "https://github.com/symfony/event-dispatcher.git",
-            "reference": "f9031c22ec127d4a2450760f81a8677fe8a10177"
+            "reference": "79ede8f2836e5ec910ebb325bde40f987244baa8"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/symfony/event-dispatcher/zipball/f9031c22ec127d4a2450760f81a8677fe8a10177",
-            "reference": "f9031c22ec127d4a2450760f81a8677fe8a10177",
+            "url": "https://api.github.com/repos/symfony/event-dispatcher/zipball/79ede8f2836e5ec910ebb325bde40f987244baa8",
+            "reference": "79ede8f2836e5ec910ebb325bde40f987244baa8",
             "shasum": ""
         },
         "require": {
@@ -1945,7 +1945,7 @@
             "symfony/dependency-injection": "",
             "symfony/http-kernel": ""
         },
-        "time": "2019-10-24T15:33:53+00:00",
+        "time": "2020-01-04T12:05:51+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -1980,24 +1980,24 @@
     },
     {
         "name": "symfony/filesystem",
-        "version": "v3.4.36",
-        "version_normalized": "3.4.36.0",
+        "version": "v3.4.37",
+        "version_normalized": "3.4.37.0",
         "source": {
             "type": "git",
             "url": "https://github.com/symfony/filesystem.git",
-            "reference": "00cdad0936d06fab136944bc2342b762b1c3a4a2"
+            "reference": "0a0d3b4bda11aa3a0464531c40e681e184e75628"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/symfony/filesystem/zipball/00cdad0936d06fab136944bc2342b762b1c3a4a2",
-            "reference": "00cdad0936d06fab136944bc2342b762b1c3a4a2",
+            "url": "https://api.github.com/repos/symfony/filesystem/zipball/0a0d3b4bda11aa3a0464531c40e681e184e75628",
+            "reference": "0a0d3b4bda11aa3a0464531c40e681e184e75628",
             "shasum": ""
         },
         "require": {
             "php": "^5.5.9|>=7.0.8",
             "symfony/polyfill-ctype": "~1.8"
         },
-        "time": "2019-11-25T16:36:22+00:00",
+        "time": "2020-01-17T08:50:08+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -2032,23 +2032,23 @@
     },
     {
         "name": "symfony/finder",
-        "version": "v3.4.36",
-        "version_normalized": "3.4.36.0",
+        "version": "v3.4.37",
+        "version_normalized": "3.4.37.0",
         "source": {
             "type": "git",
             "url": "https://github.com/symfony/finder.git",
-            "reference": "290ae21279b37bfd287cdcce640d51204e84afdf"
+            "reference": "a90a9d3b9f458a5cdeabfa4090b20c000ca3962f"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/symfony/finder/zipball/290ae21279b37bfd287cdcce640d51204e84afdf",
-            "reference": "290ae21279b37bfd287cdcce640d51204e84afdf",
+            "url": "https://api.github.com/repos/symfony/finder/zipball/a90a9d3b9f458a5cdeabfa4090b20c000ca3962f",
+            "reference": "a90a9d3b9f458a5cdeabfa4090b20c000ca3962f",
             "shasum": ""
         },
         "require": {
             "php": "^5.5.9|>=7.0.8"
         },
-        "time": "2019-11-17T21:55:15+00:00",
+        "time": "2020-01-01T11:03:25+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -2204,17 +2204,17 @@
     },
     {
         "name": "symfony/var-dumper",
-        "version": "v3.4.36",
-        "version_normalized": "3.4.36.0",
+        "version": "v3.4.37",
+        "version_normalized": "3.4.37.0",
         "source": {
             "type": "git",
             "url": "https://github.com/symfony/var-dumper.git",
-            "reference": "569e261461600810845a8305ca3f64abd3e712c0"
+            "reference": "51ecb139114c38080801145a212f10210ea99ea3"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/symfony/var-dumper/zipball/569e261461600810845a8305ca3f64abd3e712c0",
-            "reference": "569e261461600810845a8305ca3f64abd3e712c0",
+            "url": "https://api.github.com/repos/symfony/var-dumper/zipball/51ecb139114c38080801145a212f10210ea99ea3",
+            "reference": "51ecb139114c38080801145a212f10210ea99ea3",
             "shasum": ""
         },
         "require": {
@@ -2233,7 +2233,7 @@
             "ext-intl": "To show region name in time zone dump",
             "ext-symfony_debug": ""
         },
-        "time": "2019-10-10T11:03:19+00:00",
+        "time": "2020-01-01T11:03:25+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -2275,17 +2275,17 @@
     },
     {
         "name": "symfony/yaml",
-        "version": "v3.4.36",
-        "version_normalized": "3.4.36.0",
+        "version": "v3.4.37",
+        "version_normalized": "3.4.37.0",
         "source": {
             "type": "git",
             "url": "https://github.com/symfony/yaml.git",
-            "reference": "dab657db15207879217fc81df4f875947bf68804"
+            "reference": "aa46bc2233097d5212332c907f9911533acfbf80"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/symfony/yaml/zipball/dab657db15207879217fc81df4f875947bf68804",
-            "reference": "dab657db15207879217fc81df4f875947bf68804",
+            "url": "https://api.github.com/repos/symfony/yaml/zipball/aa46bc2233097d5212332c907f9911533acfbf80",
+            "reference": "aa46bc2233097d5212332c907f9911533acfbf80",
             "shasum": ""
         },
         "require": {
@@ -2301,7 +2301,7 @@
         "suggest": {
             "symfony/console": "For validating YAML files using the lint command"
         },
-        "time": "2019-10-24T15:33:53+00:00",
+        "time": "2020-01-13T08:00:59+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
