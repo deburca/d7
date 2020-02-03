@@ -1857,17 +1857,17 @@
     },
     {
         "name": "symfony/debug",
-        "version": "v4.4.3",
-        "version_normalized": "4.4.3.0",
+        "version": "v4.4.4",
+        "version_normalized": "4.4.4.0",
         "source": {
             "type": "git",
             "url": "https://github.com/symfony/debug.git",
-            "reference": "89c3fd5c299b940333bc6fe9f1b8db1b0912c759"
+            "reference": "20236471058bbaa9907382500fc14005c84601f0"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/symfony/debug/zipball/89c3fd5c299b940333bc6fe9f1b8db1b0912c759",
-            "reference": "89c3fd5c299b940333bc6fe9f1b8db1b0912c759",
+            "url": "https://api.github.com/repos/symfony/debug/zipball/20236471058bbaa9907382500fc14005c84601f0",
+            "reference": "20236471058bbaa9907382500fc14005c84601f0",
             "shasum": ""
         },
         "require": {
@@ -1880,7 +1880,7 @@
         "require-dev": {
             "symfony/http-kernel": "^3.4|^4.0|^5.0"
         },
-        "time": "2020-01-08T17:29:02+00:00",
+        "time": "2020-01-25T12:44:29+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
